@@ -2,7 +2,6 @@ import React from "react";
 import './styles.css';
 
 function Card(props){
-    console.log(props.cardObject)
     return(
         <div className="card">
             <img src={props.cardObject.imageUrl} className="card--image"/>

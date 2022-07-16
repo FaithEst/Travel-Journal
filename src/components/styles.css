@@ -27,15 +27,15 @@ section{
 /* ------ card section ------ */
 .card{
     display: flex;
-    width: 70%;
+    width: 75%;
     margin: auto;
     padding-bottom: 30px;
     margin-bottom: 30px;
     border-bottom: #F5F5F5 solid 2px;
 }
 .card--image{
-    width: 315px;
-    height: 358px;
+    width: 265px;
+    height: 308px;
     border-radius: 8px;
     object-fit: cover;
 }
