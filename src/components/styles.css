@@ -47,7 +47,7 @@ section{
     display: flex;
     align-items: center;
     margin-bottom: 10px;
-    font-size: 18px;
+    font-size: 16px;
 }
 .card--map{
     border-bottom: #918E9B solid 1px;
@@ -67,10 +67,10 @@ section{
 }
 .card--date{
     color: #2B283A;
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 10px;
 }
 .card--description{
     color: #2B283A;
-    font-size: 18px;
+    font-size: 16px;
 }
